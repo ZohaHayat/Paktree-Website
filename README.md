@@ -9,7 +9,7 @@ This is a full-stack website developed for Paktree NGO to increase community eng
 - Secure online donation/payment system integrated  
 - Admin dashboard for managing content and tracking donations  
 - MongoDB backend for flexible and scalable data management  
-- Node.js server for efficient backend operations  
+- Node.js server for efficient backend operations 
 - Accessibility-focused interface for all users  
 
 ## Demo
